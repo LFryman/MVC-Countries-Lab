@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qnFxNHJ0MlmT6apJMWtxKSjuDjTNrO1fpD0J9MSKuCtmW6qSF/5YjS1M66VXKrrBfmBOV7f535HT22bJPZ+mBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zach\\source\\repos\\MVC Countries Lab\\MVC Countries Lab\\MVC Countries Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zach\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
